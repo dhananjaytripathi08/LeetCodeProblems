@@ -26,3 +26,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/1916-find-center-of-star-graph) |
+# Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0151-reverse-words-in-a-string) |
+# String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0151-reverse-words-in-a-string) |
