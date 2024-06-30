@@ -34,3 +34,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0151-reverse-words-in-a-string) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1801-average-time-of-process-per-machine](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/1801-average-time-of-process-per-machine) |
+<!---LeetCode Topics End-->
