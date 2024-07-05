@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0577-employee-bonus) |
 | [0596-classes-more-than-5-students](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0596-classes-more-than-5-students) |
 | [1670-patients-with-a-condition](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/1670-patients-with-a-condition) |
