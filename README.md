@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1670-patients-with-a-condition](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/1670-patients-with-a-condition) |
 | [1801-average-time-of-process-per-machine](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/1811-fix-names-in-a-table) |
+| [1877-find-followers-count](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/1877-find-followers-count) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
 |  |
