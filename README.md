@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0196-delete-duplicate-emails](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0577-employee-bonus) |
 | [0596-classes-more-than-5-students](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0596-classes-more-than-5-students) |
+| [0619-biggest-single-number](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0619-biggest-single-number) |
 | [1670-patients-with-a-condition](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/1670-patients-with-a-condition) |
 | [1801-average-time-of-process-per-machine](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/1811-fix-names-in-a-table) |
