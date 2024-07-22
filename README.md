@@ -59,10 +59,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/1293-three-consecutive-odds) |
+| [2502-sort-the-people](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2502-sort-the-people](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2502-sort-the-people](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/2502-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -96,4 +99,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0206-reverse-linked-list) |
+## String
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/2502-sort-the-people) |
 <!---LeetCode Topics End-->
