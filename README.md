@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0596-classes-more-than-5-students](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0596-classes-more-than-5-students) |
 | [0619-biggest-single-number](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0626-exchange-seats) |
+| [1301-reformat-department-table](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/1301-reformat-department-table) |
 | [1625-group-sold-products-by-the-date](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/1670-patients-with-a-condition) |
 | [1801-average-time-of-process-per-machine](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/1801-average-time-of-process-per-machine) |
