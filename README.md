@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [1642-water-bottles](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/1642-water-bottles) |
 ## Simulation
 |  |
@@ -133,4 +134,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0948-sort-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
