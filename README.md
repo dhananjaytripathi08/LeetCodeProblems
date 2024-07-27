@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0747-min-cost-climbing-stairs](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0747-min-cost-climbing-stairs) |
 | [0948-sort-an-array](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/1293-three-consecutive-odds) |
 | [1803-average-waiting-time](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/1803-average-waiting-time) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0070-climbing-stairs) |
+| [0747-min-cost-climbing-stairs](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0747-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
