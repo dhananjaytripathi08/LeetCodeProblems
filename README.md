@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0648-replace-words](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0648-replace-words) |
 | [0747-min-cost-climbing-stairs](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0747-min-cost-climbing-stairs) |
 | [0948-sort-an-array](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/1293-three-consecutive-odds) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0648-replace-words](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0648-replace-words) |
 | [2502-sort-the-people](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0648-replace-words](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0648-replace-words) |
 | [2502-sort-the-people](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/2502-sort-the-people) |
 ## Divide and Conquer
 |  |
@@ -144,4 +147,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0070-climbing-stairs) |
+## Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0648-replace-words) |
 <!---LeetCode Topics End-->
