@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0648-replace-words) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2502-sort-the-people](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/2502-sort-the-people) |
 ## Divide and Conquer
 |  |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0747-min-cost-climbing-stairs) |
 | [1511-count-number-of-teams](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/1511-count-number-of-teams) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Memoization
 |  |
 | ------- |
@@ -157,4 +159,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/1511-count-number-of-teams) |
+## Stack
+|  |
+| ------- |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->
