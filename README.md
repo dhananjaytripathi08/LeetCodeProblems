@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0648-replace-words](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0648-replace-words) |
 | [2502-sort-the-people](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/2502-sort-the-people) |
 ## Two Pointers
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0648-replace-words](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0648-replace-words) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2502-sort-the-people](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/2502-sort-the-people) |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0948-sort-an-array](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -163,4 +166,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
