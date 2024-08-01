@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0648-replace-words](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0648-replace-words) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0202-happy-number) |
 | [1642-water-bottles](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/1642-water-bottles) |
 ## Simulation
 |  |
