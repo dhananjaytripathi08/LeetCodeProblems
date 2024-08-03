@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/1293-three-consecutive-odds) |
 | [1511-count-number-of-teams](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/1511-count-number-of-teams) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1803-average-waiting-time](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/1803-average-waiting-time) |
 | [2502-sort-the-people](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/2502-sort-the-people) |
 ## Hash Table
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0648-replace-words](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0648-replace-words) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0948-sort-an-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/2502-sort-the-people) |
 ## Math
 |  |
