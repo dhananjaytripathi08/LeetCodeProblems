@@ -179,4 +179,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
+## Segment Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
