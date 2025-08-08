@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0648-replace-words](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0648-replace-words) |
