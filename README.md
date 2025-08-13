@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0648-replace-words](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0648-replace-words) |
 | [0747-min-cost-climbing-stairs](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0747-min-cost-climbing-stairs) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/0202-happy-number) |
 | [1642-water-bottles](https://github.com/dhananjaytripathi08/LeetCodeProblems/tree/master/1642-water-bottles) |
